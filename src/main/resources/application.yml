@@ -1,4 +1,1 @@
-
-spring:
-  config:
-    import: classpath:application-secret.yml
+profile: default
