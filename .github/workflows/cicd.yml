@@ -3,7 +3,7 @@ name: test cd/cd
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
