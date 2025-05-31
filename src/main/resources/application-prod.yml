@@ -1,0 +1,2 @@
+profile: prod
+docker-compose-active: ${DOCKER_COMPOSE_ACTIVE}
